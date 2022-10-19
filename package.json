@@ -14,8 +14,8 @@
   "commands": [
     {
       "name": "index",
-      "title": "Open an app",
-      "description": "Show a list of games to open",
+      "title": "Open an app with PlayCover",
+      "description": "Show a list of games and apps to open with PlayCover",
       "mode": "view"
     },
     {
