@@ -23,11 +23,19 @@
       "title": "Launch PlayCover",
       "description": "Launch PlayCover",
       "mode": "no-view"
+    },
+    {
+      "name": "sideload",
+      "title": "Sideload with PlayCover",
+      "description": "Sideload with PlayCover",
+      "mode": "view"
     }
   ],
   "dependencies": {
     "@raycast/api": "^1.41.1",
-    "file-icon": "^5.1.0"
+    "@raycast/utils": "^1.4.9",
+    "file-icon": "^5.1.0",
+    "playcover-cli": "^1.0.2"
   },
   "devDependencies": {
     "@types/node": "16.10.3",
